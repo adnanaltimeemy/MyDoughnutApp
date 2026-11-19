@@ -115,7 +115,7 @@ Full policy: [privacy.html](privacy.html).
 | `README.md` | This overview |
 | `MyDoughnut User Guide.pdf` | The full user guide |
 | `privacy.html` | The privacy policy |
-| `AppIcon_2.png` | The MyDoughnut app icon |
+
 
 ---
 
