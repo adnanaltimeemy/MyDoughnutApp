@@ -83,18 +83,6 @@ The inputs are averaged, the bonuses added, and the result kept between 0 and 10
 
 ---
 
-## Premium
-
-**£4.99 per month, with a 1-week free trial.**
-
-* **Trends** over 12 weeks, 6 months and 1 year.
-* **Monthly best and worst** area.
-* **Personal goals:** your own target for every area, plus step, exercise, sleep and active-travel goals. Applied everywhere, including widgets.
-
-Subscriptions are handled by Apple and can be managed or cancelled in iOS **Settings $\rightarrow$ [your name] $\rightarrow$ Subscriptions**.
-
----
-
 ## Privacy
 
 MyDoughnut is private by design. **Everything stays on your device.**
@@ -115,7 +103,6 @@ Full policy: [privacy.html](privacy.html).
 | `README.md` | This overview |
 | `MyDoughnut User Guide.pdf` | The full user guide |
 | `privacy.html` | The privacy policy |
-| `AppIcon_2.png` | The MyDoughnut app icon |
 
 ---
 
